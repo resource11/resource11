@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Kathleen McMahon | Engineer — Designer — Speaker](https://res.cloudinary.com/kathleenmcmahon/image/upload/v1590693720/kathleenmcmahon-dot-dev/social-sharing-card.png)](https://kathleenmcmahon.dev)
+
+Hello! I'm Kathleen and I'm a full stack engineer with a design background. In other words, I really enjoy the front of the frontend, digging into new technologies, and [talking about accessibility](https://noti.st/resource11), React component libraries, design systems, and inclusive documentation.
+
+When I’m not coding, designing, or speaking about things, I’m the best Lanterne Rouge cyclocrosser you’ll ever meet. I'm also [currently available for work](https://kathleenmcmahon.dev).
