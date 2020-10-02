@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 Hello! I'm Kathleen and I'm a full stack engineer with a design background. In other words, I really enjoy the front of the frontend, digging into new technologies, and [talking about accessibility](https://noti.st/resource11), React component libraries, design systems, and inclusive documentation.
 
-When I’m not coding, designing, or speaking about things, I’m the best Lanterne Rouge cyclocrosser you’ll ever meet. I'm also [currently available for work](https://kathleenmcmahon.dev).
+When I’m not [coding, designing, or speaking about things](https://kathleenmcmahon.dev), I’m the best Lanterne Rouge cyclocrosser you’ll ever meet.
